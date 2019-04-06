@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="resource.images.languageflags.rounded" name="Language Flags Rounded" version="0.0.1" provider-name="">
+	<extension point="kodi.resource.images" compile="true" type="languageflags" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Rounded coloured language flags</summary>
+		<description lang="en">Rounded coloured language flags. Icons designed by ???</description>
+		<platform>all</platform>
+		<license></license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+	</extension>
+</addon>
